@@ -8,3 +8,5 @@ emailer3.py
 emailer4.py
 gene.pem
 emailer5.py
+.history/
+.env/
