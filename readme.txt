@@ -1,3 +1,5 @@
+listen yall, i forgot i made this and just pushed it during the agentic rag presentation. there will be mistakes lol
+
 Email Processing and Sending Service
 This project consists of two main components: an email processing service and an email sending service. These services work together to handle email requests, process them using AI, store the details in a database, and finally send the emails.
 Table of Contents
