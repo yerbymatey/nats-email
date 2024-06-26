@@ -1,0 +1,4 @@
+asyncio=3.4.3
+psycopg=2.9.9
+openai=1.23.5
+nats-py=2.7.2
